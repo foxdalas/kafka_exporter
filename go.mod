@@ -3,7 +3,7 @@ module github.com/foxdalas/kafka_exporter
 go 1.19
 
 require (
-	github.com/Shopify/sarama v1.37.2
+	github.com/Shopify/sarama v1.38.0
 	github.com/golang/glog v1.0.0
 	github.com/krallistic/kazoo-go v0.0.0-20170526135507-a15279744f4e
 	github.com/pkg/errors v0.9.1
