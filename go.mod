@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Shopify/sarama v1.38.1
-	github.com/golang/glog v1.0.0
+	github.com/golang/glog v1.1.0
 	github.com/krallistic/kazoo-go v0.0.0-20170526135507-a15279744f4e
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.14.0
